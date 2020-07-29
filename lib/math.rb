@@ -24,6 +24,6 @@ rem
 end
 
 def square_root(num)
-sq = num.0/num.0
+sq = math.square_root(num)
 sq
 end
