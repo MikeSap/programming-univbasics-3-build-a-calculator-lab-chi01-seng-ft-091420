@@ -24,5 +24,5 @@ rem
 end
 
 def square_root(num)
-
+sq = 
 end
